@@ -1,6 +1,6 @@
  # Neural Network with Four Hidden Layers in C++
 
-This repository contains a C++ implementation of a deep neural network with four hidden layers. The network is designed for multi-class classification tasks and is trained using backpropagation with stochastic gradient descent.
+The C++ implementation of a deep neural network with four hidden layers is designed for multi-class classification tasks. It is trained using backpropagation with stochastic gradient descent.
 
 ## Key Features:
 
