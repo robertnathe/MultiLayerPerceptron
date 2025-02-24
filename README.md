@@ -13,13 +13,4 @@ This repository contains a C++ implementation of a deep neural network with four
   Random Weight Initialization: Weights are initialized using a normal distribution to break symmetry and speed up convergence.
   
   Training and Prediction: Provides methods for training the network on input data with corresponding labels, and making predictions on new data.
-
-## Usage:
-
-1. Include the Header File: Include `NeuralNetwork.h` in your C++ project.
-
-2. Create a Network Instance: Initialize a `NeuralNetwork` object with the desired input size, hidden layer sizes, output size, and learning rate.
-
-3. Train the Network: Use the `train` method to train the network on your dataset.
-
-4. Make Predictions: Use the `predict` method to obtain predictions for new input data.
+  
